@@ -1,5 +1,5 @@
 name: Crash report
-description: The game closed, froze, or crashed unexpectedly.
+description: Fickle closed, froze, or crashed unexpectedly.
 title: "[Crash] "
 labels: ["crash"]
 body:
@@ -11,7 +11,7 @@ body:
     id: version
     attributes:
       label: Game version
-      description: The version shown in the game, on the store page, or in the install folder.
+      description: The version shown in Fickle, on the store page, or in the install folder.
       placeholder: "1.0.0"
     validations:
       required: true

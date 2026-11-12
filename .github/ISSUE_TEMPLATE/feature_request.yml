@@ -14,7 +14,7 @@ body:
     id: why
     attributes:
       label: Why it would help
-      description: How this would improve the game for you or other players.
+      description: How this would improve Fickle for you or other players.
     validations:
       required: false
   - type: textarea
